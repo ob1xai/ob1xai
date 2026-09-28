@@ -18,7 +18,7 @@ OB1x is a human-machine systems design practice operating at the intersection of
 
 ## Background
 
-- Electronics Engineering degree
+- BS in Electronics and Communications Engineering Degree
 - IBM and ISC2 Certified in Cybersecurity
 - MA candidate — AI Design and Marketing
 - LEGO First Mentor & Coach
